@@ -4,9 +4,9 @@ var footerText = "";
 
 var winText = "Bingo!";
 
-var clickSnd = new Audio("audio/click.mp3");
+var clickSnd = new Audio("click.mp3");
 
-var winSnd = new Audio("audio/win.mp3");
+var winSnd = new Audio("win.mp3");
 
 var JSONBingo = {"squares": [
 	{"square": "Paro cardiaco/desfibrilación"},
